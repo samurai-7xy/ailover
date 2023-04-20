@@ -20,3 +20,6 @@ unityをgitで管理
 初回のコミットは　git config --global user.name []
                  git config --global user.email []
                 
+
+
+タルタリヤ
