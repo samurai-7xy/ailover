@@ -20,6 +20,9 @@ https://zenn.dev/meson/articles/chatgpt-with-voice#chatgpt-api
   https://openai.com  
   ↑ここでAPIkeyつくったよ
 
+  https://auto-worker.com/blog/?p=5372  
+  これ使ってみます！
+
 
 
 
