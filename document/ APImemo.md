@@ -23,6 +23,8 @@ https://zenn.dev/meson/articles/chatgpt-with-voice#chatgpt-api
   https://auto-worker.com/blog/?p=5372  
   これ使ってみます！
 
+https://jotaros.github.io/post/speechioforunity/  
+これはUnityで対話型音声認識アプリを作れるフレームワークらしいので載せておきます！
 
 
 
