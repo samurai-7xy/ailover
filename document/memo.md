@@ -15,12 +15,13 @@ gitignore
 unityをgitで管理
 
 マーメイド（シーケンス図）（マークダウンだよ）（最悪パワポで）
+```mermaid
+sequenceDiagram
 
+```
 
 初回のコミットは　git config --global user.name []
                  git config --global user.email []
-                
-
 
 タルタリヤ
 
