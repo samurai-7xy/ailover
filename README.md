@@ -5,20 +5,39 @@
 AIと恋人として会話できるサイトです。
 
 
+
 ```mermaid
 sequenceDiagram
-actor a as ユーザー
-participant voice as ボイス
-participant output as 音声
-participant audio as オーディオ
-participant txt1 as テキスト１
+    autonumber
+    actor a as ユーザー
+    participant voice as 音声認識
+    participant output as GPT
+    participant audio as VOICE BOX
+    participant live as LIVE 2D
 
+    rect rgba(253, 231, 253, 0.4)
     a ->> voice: 声
-    Note left of voice:喋る
-    voice ->> output: 
-    output ->> audio: 
-    audio ->> txt1: 
+    end
+    Note left of voice:マイクに向かって喋る
+    voice -) voice: テキスト化
+    rect rgba(253, 231, 253, 0.4)
+    voice ->> output: テキスト①
+    end
+    rect rgba(253, 231, 253, 0.4)
+    output ->> audio: テキスト②
+    end
+    rect rgba(231, 253, 242, 0.4)
+    audio -->> a: 音声
+    end
+    rect rgba(231, 253, 242, 0.4)
+    output -->> a: テキスト②
+    end
+    rect rgba(231, 253, 242, 0.4)
+    live -->> a: モデル
+    end
 
+    ##253, 231, 253, 0.4 ピンク
+    ##231, 253, 242, 0.4 緑
     
 
 ```
