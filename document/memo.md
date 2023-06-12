@@ -9,7 +9,7 @@ voicebox 辞書を作れる（調べる）
 
 画像の管理 assets
 外部のリンクはシンボリックリンクをはる
-https://zenn.dev/kunosu/articles/f2a459431c3a4dfc48cb
+[シンボリックリンク](https://zenn.dev/kunosu/articles/f2a459431c3a4dfc48cb)  
 gitignore
 
 unityをgitで管理
@@ -20,7 +20,7 @@ sequenceDiagram
 
 ```
 
-初回のコミットは　git config --global user.name []
+初回のコミットは　git config --global user.name []  
                  git config --global user.email []
 
 タルタリヤ
