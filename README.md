@@ -12,7 +12,7 @@ sequenceDiagram
     actor a as ユーザー
     participant voice as 音声認識
     participant output as GPT
-    participant audio as VOICE BOX
+    participant audio as VOICE VOX
     participant live as LIVE 2D
 
     rect rgba(253, 231, 253, 0.4)
@@ -36,8 +36,8 @@ sequenceDiagram
     live -->> a: モデル
     end
 
-    ##253, 231, 253, 0.4 ピンク
-    ##231, 253, 242, 0.4 緑
+    ##253, 231, 253, 0.4 ピンク系
+    ##231, 253, 242, 0.4 緑系
     
 
 ```
