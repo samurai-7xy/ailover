@@ -44,3 +44,6 @@ TagManager:
   - name: character
     uniqueID: 506365841
     locked: 0
+  - name: button
+    uniqueID: 3380098601
+    locked: 0
