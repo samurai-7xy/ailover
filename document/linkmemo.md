@@ -18,4 +18,9 @@
 [if文](https://www.sejuku.net/blog/99719)  
 [random](https://qiita.com/SHiNKi_wst/items/5bd376308f1fb36096f3)  
 [random](https://karaagedigital.hatenablog.jp/entry/2016/09/29/183700)が使えないとき  
-[random](https://tech.pjin.jp/blog/2021/03/31/unity_howto_random/)違うやりかた
+[random](https://tech.pjin.jp/blog/2021/03/31/unity_howto_random/)違うやりかた  
+クリックしたら[パネル表示](https://yuus01.info/game-make/unity_click_object/)  
+
+
+## デザインメモ
+[プロフィール](https://appgameui.hatenablog.com/entry/2021/11/08/233000)  
