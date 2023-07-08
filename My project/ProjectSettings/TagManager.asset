@@ -41,12 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: character1
+  - name: background
+    uniqueID: 3142130503
+    locked: 0
+  - name: iori
     uniqueID: 506365841
     locked: 0
-  - name: character2
+  - name: tumugi
     uniqueID: 1796354181
     locked: 0
   - name: button
     uniqueID: 3380098601
+    locked: 0
+  - name: profile
+    uniqueID: 1035322349
+    locked: 0
+  - name: profile2
+    uniqueID: 1984067571
     locked: 0

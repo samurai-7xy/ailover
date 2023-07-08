@@ -20,6 +20,11 @@
 [random](https://karaagedigital.hatenablog.jp/entry/2016/09/29/183700)が使えないとき  
 [random](https://tech.pjin.jp/blog/2021/03/31/unity_howto_random/)違うやりかた  
 クリックしたら[パネル表示](https://yuus01.info/game-make/unity_click_object/)  
+[パネル](https://xr-hub.com/archives/11782)の表示・非表示  
+
+
+## error
+[can't add script](https://www.ipentec.com/document/unity-error-cant-add-script-when-attach-script-to-object#google_vignette)  
 
 
 ## デザインメモ
