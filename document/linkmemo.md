@@ -21,6 +21,7 @@
 [random](https://tech.pjin.jp/blog/2021/03/31/unity_howto_random/)違うやりかた  
 クリックしたら[パネル表示](https://yuus01.info/game-make/unity_click_object/)  
 [パネル](https://xr-hub.com/archives/11782)の表示・非表示  
+ほかのファイルのクラスを呼び出す[namedspace](https://krhb.hatenablog.com/entry/2022/09/19/C%23_%E3%81%A7%E5%88%A5%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A7%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80#:~:text=C%23%20%E3%81%A7%E5%88%A5%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A7%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80%20C%23%20%E5%88%A5%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A7%E4%BB%A5%E4%B8%8B%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E6%9B%B8%E3%81%8F%E3%80%82%20%E3%81%93%E3%81%93%E3%81%A7%20namespace%20%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82%20using,PrintTest%20%28%29%20%7B%20Console.WriteLine%20%28%22Other_Class%21%22%29%3B%20%7D%20%7D%20%7D)  
 
 
 ## error
