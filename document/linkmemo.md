@@ -5,6 +5,11 @@
 
 [unity API](https://qiita.com/pchan52/items/feca16ea98289ec31c65#:~:text=Project%E3%83%93,%E9%81%B8%E6%8A%9E%E3%81%97%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84%E3%80%82)
 
+[chat GPT](https://qiita.com/JinA293/items/ab953c40ce73d161f4fc)
+
+動いた！[ChatGPT](https://anogame.net/unity-chatgpt-api-tutorial/)  
+↑[youtube](https://www.youtube.com/watch?v=xexiNqxba8o&list=LL&index=1)  
+
 ## svg
 [svg導入](https://tech.griphone.co.jp/2022/12/06/unity-png-svg/)  
 [svgのscript化](https://note.com/strp_nunoura/n/n58379e21b300)
@@ -22,6 +27,8 @@
 クリックしたら[パネル表示](https://yuus01.info/game-make/unity_click_object/)  
 [パネル](https://xr-hub.com/archives/11782)の表示・非表示  
 ほかのファイルのクラスを呼び出す[namedspace](https://krhb.hatenablog.com/entry/2022/09/19/C%23_%E3%81%A7%E5%88%A5%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A7%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80#:~:text=C%23%20%E3%81%A7%E5%88%A5%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A7%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%9F%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E8%AA%AD%E3%81%BF%E8%BE%BC%E3%82%80%20C%23%20%E5%88%A5%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A7%E4%BB%A5%E4%B8%8B%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E6%9B%B8%E3%81%8F%E3%80%82%20%E3%81%93%E3%81%93%E3%81%A7%20namespace%20%E3%81%AE%E4%B8%AD%E3%81%A7%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82%20using,PrintTest%20%28%29%20%7B%20Console.WriteLine%20%28%22Other_Class%21%22%29%3B%20%7D%20%7D%20%7D)  
+キャラの[データ保持](https://gametukurikata.com/program/selectstageandcharacter)  
+
 
 
 ## error
@@ -30,3 +37,6 @@
 
 ## デザインメモ
 [プロフィール](https://appgameui.hatenablog.com/entry/2021/11/08/233000)  
+C#で[音声認識](https://heych.hatenablog.com/entry/2020/05/09/004936)  
+C#[参照マネージャー](https://www.web-development-kb-ja.site/ja/c%23/visual-studio-code%E3%81%AB%E3%82%A2%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AA%E5%8F%82%E7%85%A7%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AF%EF%BC%9F/830251150/)  
+c#で[ChatGPT](https://qiita.com/fsdg-adachi_h/items/2675b596191e4fa2d0e3#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83)

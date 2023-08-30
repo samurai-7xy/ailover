@@ -71,5 +71,6 @@ Assets/Font/NotoSansJP-Black SDF.asset
 Assets/Font/images
 
 *.svg
+*.env
 
 Assets
