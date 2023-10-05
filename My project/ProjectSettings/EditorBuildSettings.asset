@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: ec413fac6ca187a4cbe5eac964910d19
+  - enabled: 1
+    path: Assets/Scenes/Call_Game.unity
+    guid: c9a91dd98dc01554791147eb9a844bb6
   m_configObjects: {}
