@@ -1,0 +1,11 @@
+string localAppDataPath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+→　C:\\users\\kanrin\\appdata\\local
+
+Process.Start($"{localAppDataPath}\\Programs\\VOICEVOX\\run.exe");
+
+
+
+
+refs:
+- https://yaspage.com/cs-process-start/
+- https://qiita.com/muro/items/fde18f72b28f4b46f07b#:~:text=LocalApplicationData,UserName%5D%5CAppData%5CLocal
