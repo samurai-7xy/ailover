@@ -20,7 +20,6 @@
         "**/*.mid":true,
         "**/*.midi":true,
         "**/*.ini": true,
-        "**/*.wav":true,
         "**/*.gif":true,
         "**/*.ico":true,
         "**/*.jpg":true,
