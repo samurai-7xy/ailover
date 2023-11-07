@@ -37,6 +37,6 @@
 
 ### Live2D
 
-- [ ] 伊織のlipsyncする : shion 11/17  
+- [x] 伊織のlipsyncする : shion 11/17  
 - [ ] 紬をunityに導入 : shion 11/17  
 - [ ] 紬lipsync : shion 11/17  
