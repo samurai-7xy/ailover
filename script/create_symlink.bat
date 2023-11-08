@@ -1,9 +1,10 @@
 @echo off
 cd /d %~dp0
 
-echo シンボリック作るよ
+echo シンボリック消して作るよ
 cd "..\My Project"
-mklink /D Assets "G:\マイドライブ\ailover\Assets
+rmdir Assets
+mklink /D Assets "%userprofile%\drive\マイドライブ\ailover\Assets
 
 echo 何かキーを打って終了...
 
