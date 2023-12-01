@@ -10,30 +10,34 @@ AIと恋人として会話できるサイトです。
 sequenceDiagram
     autonumber
     actor a as ユーザー
-    participant voice as 音声認識
+    participant enzin as エンジン
     participant output as GPT
     participant audio as VOICE VOX
     participant live as LIVE 2D
 
     rect rgba(253, 231, 253, 0.4)
-    a ->> voice: 声
-    end
-    Note left of voice:マイクに向かって喋る
-    voice -) voice: テキスト化
-    rect rgba(253, 231, 253, 0.4)
-    voice ->> output: テキスト①
+    a ->> enzin: メッセージテキスト
     end
     rect rgba(253, 231, 253, 0.4)
-    output ->> audio: テキスト②
+    enzin ->> output: メッセージテキスト
+    end
+    rect rgba(253, 231, 253, 0.4)
+    output ->> audio: レスポンステキスト
+    end
+    rect rgba(253, 231, 253, 0.4)
+    audio ->> live: レスポンスWAV
     end
     rect rgba(231, 253, 242, 0.4)
-    audio -->> a: 音声
+    live -->> enzin: モデル
     end
     rect rgba(231, 253, 242, 0.4)
-    output -->> a: テキスト②
+    audio -->> enzin: レスポンスWAV
     end
     rect rgba(231, 253, 242, 0.4)
-    live -->> a: モデル
+    output -->> enzin: テキスト
+    end
+    rect rgba(231, 253, 242, 0.4)
+    enzin -->> a: テキスト
     end
 
     ##253, 231, 253, 0.4 ピンク系
