@@ -34,10 +34,10 @@ sequenceDiagram
     audio -->> enzin: レスポンスWAV
     end
     rect rgba(231, 253, 242, 0.4)
-    output -->> enzin: テキスト
+    output -->> enzin: レスポンステキスト
     end
     rect rgba(231, 253, 242, 0.4)
-    enzin -->> a: テキスト
+    enzin -->> a: 
     end
 
     ##253, 231, 253, 0.4 ピンク系
