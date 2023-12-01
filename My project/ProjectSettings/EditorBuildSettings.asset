@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home2.unity
     guid: c06cd59aac6312f4b81c240284873e63
+  - enabled: 1
+    path: Assets/Scenes/explain_tsumugi.unity
+    guid: 32dc1d92b64b4bb4a8fc54bef09148ba
+  - enabled: 1
+    path: Assets/Scenes/explain_iori.unity
+    guid: aea951b6a23b89d48b91cd86616c85e0
   m_configObjects: {}

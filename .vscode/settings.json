@@ -24,7 +24,7 @@
         "**/*.ico":true,
         "**/*.jpg":true,
         "**/*.jpeg":true,
-        "**/*.png":true,
+        "**/*.png":false,
         "**/*.psd":true,
         "**/*.tga":true,
         "**/*.tif":true,
@@ -55,6 +55,5 @@
         "ProjectSettings/":true,
         "temp/":true,
         "Temp/":true
-    },
-    "dotnet.defaultSolution": "My project.sln"
+    }
 }
