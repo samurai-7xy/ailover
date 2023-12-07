@@ -20,12 +20,15 @@ sequenceDiagram
     end
     rect rgba(253, 231, 253, 0.4)
     enzin ->> output: メッセージテキスト
+    Note over enzin,output : API
     end
     rect rgba(253, 231, 253, 0.4)
     output ->> audio: レスポンステキスト
+    Note over output,audio : API
     end
     rect rgba(253, 231, 253, 0.4)
     audio ->> live: レスポンスWAV
+    Note over audio,live : SDK
     end
     rect rgba(231, 253, 242, 0.4)
     live -->> enzin: モデル
